@@ -1,0 +1,24 @@
+{
+  "name": "卡厄思計分模擬器",
+  "short_name": "計分模擬器",
+  "description": "一個用於模擬卡厄思遊戲計分的網頁應用程式，允許用戶為最多三個角色追蹤不同行動的點數，並根據存檔價值（TIER）計算總分是否在上限內。",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/6366f1/ffffff?text=Chaos",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/6366f1/ffffff?text=Chaos",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

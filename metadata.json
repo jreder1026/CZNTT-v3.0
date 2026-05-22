@@ -1,0 +1,6 @@
+{
+  "name": "S2 卡厄思計分模擬器 v3.0.0",
+  "description": "一個用於模擬卡厄思遊戲計分的網頁應用程式，允許用戶為最多三個角色追蹤不同行動的點數，並根據存檔價值（TIER）計算總分是否在上限內。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
